@@ -128,3 +128,13 @@ html, body {
 
 
 
+/* Beta banner styling */
+.beta-banner {
+  background: #5f5;
+  font-size: 28px;
+  padding: 10px;
+  text-align: center;
+}
+
+
+
